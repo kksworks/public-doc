@@ -4,7 +4,19 @@ typora-copy-images-to: md-img
 
 ## TOC
 
-[TOC]
+- [TOC](#toc)
+- [FTP 서버를 옮기기](#ftp-%EC%84%9C%EB%B2%84%EB%A5%BC-%EC%98%AE%EA%B8%B0%EA%B8%B0)
+- [웹호스팅 종류](#%EC%9B%B9%ED%98%B8%EC%8A%A4%ED%8C%85-%EC%A2%85%EB%A5%98)
+    - [블루웹호스팅](#%EB%B8%94%EB%A3%A8%EC%9B%B9%ED%98%B8%EC%8A%A4%ED%8C%85)
+    - [가비아 웹호스팅](#%EA%B0%80%EB%B9%84%EC%95%84-%EC%9B%B9%ED%98%B8%EC%8A%A4%ED%8C%85)
+    - [카페24](#%EC%B9%B4%ED%8E%9824)
+    - [고도호스팅](#%EA%B3%A0%EB%8F%84%ED%98%B8%EC%8A%A4%ED%8C%85)
+    - [웹호스팅 결론 : 실패 사용하지 못함](#%EC%9B%B9%ED%98%B8%EC%8A%A4%ED%8C%85-%EA%B2%B0%EB%A1%A0-%EC%8B%A4%ED%8C%A8-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%A8)
+- [가상서버 호스팅종류](#%EA%B0%80%EC%83%81%EC%84%9C%EB%B2%84-%ED%98%B8%EC%8A%A4%ED%8C%85%EC%A2%85%EB%A5%98)
+    - [카페24](#%EC%B9%B4%ED%8E%9824)
+    - [N클라우드](#n%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C)
+    - [고도호스팅](#%EA%B3%A0%EB%8F%84%ED%98%B8%EC%8A%A4%ED%8C%85)
+    - [스팅어 호스팅](#%EC%8A%A4%ED%8C%85%EC%96%B4-%ED%98%B8%EC%8A%A4%ED%8C%85)
 
 ## FTP 서버를 옮기기
 
